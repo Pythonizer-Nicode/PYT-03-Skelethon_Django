@@ -11,6 +11,7 @@ My first two focus in terms of programming language being javascript and python,
 * Create a skeleton for future projects
 * Practise Python syntax
 * Understand and practise MVC *Model View Controller*
+* Learn how to use virtual environment with *PIPENV*
 
 ### INDEX :
 

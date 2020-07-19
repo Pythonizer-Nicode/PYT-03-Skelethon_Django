@@ -6,14 +6,19 @@ This project took place in my leearning path in BeCode (see below) to full stack
 My first two focus in terms of programming language being javascript and python, it seemed essential to me to learn django.   
 
 ### Project goals : 
-* Upgrade Python / Django stack 
-* Discover architecture of Python / Django 
-* Create a skeleton for future projects
+* Upgrade Python stack 
 * Practise Python syntax
 * Understand and practise MVC *Model View Controller*
 * Learn how to use virtual environment with *PIPENV*
-
-### INDEX :
+* Create a skeleton for future projects
+* Discover Django 
+  * Installation
+  * Create project / application
+  * Explore / customiza administration panel
+  * Create models / views / URL mapping 
+  * Use built-in authentification / forms
+  * Use built-in dynamic fields  
+  * Static elements integration (HTML/CSS/JS and other assets)
 
 ### When : 
 From:  **10-07-2020**
@@ -36,9 +41,6 @@ Give maximum to get maximum :rocket:
 I, [Nicolas](https://github.com/nicode-be), am at a start of a new career after 15 years as manager and sales director, it's time for me to make dreams reality !  
 So feel strongly to give me any recommandation about my work, advice for future projects, and all comments you want.  
 Thanks by advance for that :heart:  
-  
-
-
 
 
 

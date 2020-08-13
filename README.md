@@ -47,6 +47,6 @@ Autonomous learner, problem solver and commited team member, I'm ready for chall
 So feel strongly to give me any recommandation about my work, advice for future projects, and all comments you want.  
 If you are looking to hire a strong hybrid and atypical profile in your team do not hesitate to contact me to check if we can share a project together !  
 Thanks by advance for that :heart:  
-[Lets go to Quora](https://www.quora.com)
+
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)

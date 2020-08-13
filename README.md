@@ -4,7 +4,6 @@
 ## Index
 - [Description](#description) 
 - [Achievements](#achievements)
-- [Context](#context)
 - [Collaboration](#collaboration)
 - [Timeline](#timeline)
 
@@ -38,7 +37,7 @@ In seven months you have a wonderful luck to become a great web developer. Inclu
 Give maximum to get maximum :rocket:
 
 ### Timeline 
-[Discover the great timeline of my adventure to become a developer :calendar:](https://timelines.gitkraken.com/timeline/2e12cc334eb0406b84bf7a6339e666c4?range=2020-05-26_2020-06-27)  
+[Discover the great timeline of my adventure to become a developer :calendar: Want to write your company name on it ? See collaboration section ;)](https://timelines.gitkraken.com/timeline/2e12cc334eb0406b84bf7a6339e666c4?range=2020-05-26_2020-06-27)  
 
 ### Collaboration
 Hello, I'm [Nicolas](https://www.linkedin.com/in/nicolas-denoel/), welcome to my all new life as developer.

@@ -8,14 +8,14 @@
 - [Timeline](#timeline)
 
 
-### Description 
+## Description 
 > Start 11-07-2020
 
 This project aims to develop my stack in Python and to learn about Django web-framework.
 Django can be powerful to manage websites and to maintain them, it's one of the mandatory in Python's web-development.
 It was so obvious that I have to discover it with this first step's project.  
 
-### Achievements 
+## Achievements 
 * Upgrade Python stack 
 * Practise Python syntax
 * Understand and practise MVC *Model View Controller*
@@ -36,10 +36,10 @@ This project took place in my leearning path in BeCode (see below) to full stack
 In seven months you have a wonderful luck to become a great web developer. Inclusion and share spirit is your daily feeling !  
 Give maximum to get maximum :rocket:
 
-### Timeline 
+## Timeline 
 [Discover the great timeline of my adventure to become a developer :calendar: Want to write your company name on it ? See collaboration section ;)](https://timelines.gitkraken.com/timeline/2e12cc334eb0406b84bf7a6339e666c4?range=2020-05-26_2020-06-27)  
 
-### Collaboration
+## Collaboration
 Hello, I'm [Nicolas](https://www.linkedin.com/in/nicolas-denoel/), welcome to my all new life as developer.
 After 15 years as manager and sales director it's time for me to make my dreams come true and to become a developer.
 Autonomous learner, problem solver and commited team member, I'm ready for challenges !

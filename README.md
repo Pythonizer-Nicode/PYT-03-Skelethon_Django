@@ -41,7 +41,7 @@ Give maximum to get maximum :rocket:
 [Discover the great timeline of my adventure to become a developer :calendar:](https://timelines.gitkraken.com/timeline/2e12cc334eb0406b84bf7a6339e666c4?range=2020-05-26_2020-06-27)  
 
 ### Collaboration
-Hello, I'm <a href="linkedin.com/in/nicolas-denoel">Nicolas</a>, welcome to my all new life as developer.
+Hello, I'm [Nicolas](https://linkedin.com/), welcome to my all new life as developer.
 After 15 years as manager and sales director it's time for me to make my dreams come true and to become a developer.
 Autonomous learner, problem solver and commited team member, I'm ready for challenges !
 So feel strongly to give me any recommandation about my work, advice for future projects, and all comments you want.  

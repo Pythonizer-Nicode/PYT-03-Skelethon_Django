@@ -1,5 +1,4 @@
 # SKELETHON 
-### PP (Personnal Projet)
 
 ### Context : 
 This project took place in my leearning path in BeCode (see below) to full stack web developer.

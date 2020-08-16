@@ -31,7 +31,7 @@ It was so obvious that I have to discover it with this first step's project.
 
 ---
 
-**BeCode** Intensive Bootcamp    
+**BeCode** Intensive Bootcamp     
 This project took place in my leearning path in BeCode (see below) to full stack web developer.
 In seven months you have a wonderful luck to become a great web developer. Inclusion and share spirit is your daily feeling !  
 Give maximum to get maximum :rocket:
